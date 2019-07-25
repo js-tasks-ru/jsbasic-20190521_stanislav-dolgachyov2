@@ -3,4 +3,5 @@
  * @param {Element} table
  */
 function highlight(table) {
+  return null;
 }
